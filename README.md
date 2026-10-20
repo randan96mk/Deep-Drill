@@ -19,8 +19,14 @@ The debug APK appears in `app/build/outputs/apk/debug/`.
 
 ## How to play
 
-- Hold anywhere to lower the drill and dig. Rock breaks fast, gems take longer.
-- Tap the **$100** note (top right) to upgrade the drill. Each level drills faster, up to level 10.
+- Hold anywhere to lower the drill and dig. Rock breaks fast, gems and relics take longer.
+- Depth is shown in meters, then kilometers (each block is 3 m).
+- About 35 random materials (ores, gems, fossils, relics, treasure chests) appear by depth.
+  Values vary per block, and rare "Flawless" finds pay 3x.
+- The walls change every few hundred meters: soil, clay, sandstone, granite, caves,
+  crystal caverns, volcanic rock, magma and the planet core.
+- Tap the **$100** note (top right) to upgrade the drill. Each level is +40% faster, with no
+  maximum level.
 - Tap **SURFACE** (bottom right) to ride back up to the grass. Hold to go back down.
 - Progress (cash, depth, upgrade level) is saved on the phone.
 
